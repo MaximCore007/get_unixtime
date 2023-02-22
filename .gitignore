@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# IDE Eclipse
+.settings
+.project
+.cproject
+Debug
